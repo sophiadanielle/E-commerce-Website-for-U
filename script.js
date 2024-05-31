@@ -53,7 +53,7 @@ function checkout() {
     cart.forEach(item => {
         message += `- ${item.name} x ${item.quantity} - ₱${item.price * item.quantity}\n`;
     });
-    message += `\nTotal: $${calculateTotal()}\n`;
+    message += `\nTotal: ₱${calculateTotal()}\n`;
     message += `\nExpected Delivery Date: ${deliveryDate}`;
 
     alert(message);
