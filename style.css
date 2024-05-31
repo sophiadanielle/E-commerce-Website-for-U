@@ -397,7 +397,7 @@ Hero Media Query
 }
 
 .product-info a:hover {
-  color: #e37a5a);
+  color: #e37a5a;
 }
 
 .product-item .icons {
@@ -483,7 +483,7 @@ Hero Media Query
   left: 1rem;
   background-color: #e37a5a;
   padding: 0.5rem 1rem;
-  color: white);
+  color: white;
   border-radius: 2rem;
   font-size: 1.5rem;
 }
