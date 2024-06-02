@@ -421,14 +421,6 @@ Hero Media Query
   opacity: 0;
 }
 
-.product-item .icons li:first-child {
-  transition-delay: 0.1s;
-}
-
-.product-item .icons li:nth-child(2) {
-  transition-delay: 0.2s;
-}
-
 .product-item .icons li:nth-child(3) {
   transition-delay: 0.3s;
 }
