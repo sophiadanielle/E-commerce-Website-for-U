@@ -421,7 +421,7 @@ Hero Media Query
   opacity: 0;
 }
 
-.product-item .icons li:nth-child(3) {
+.product-item .icons li:nth-child(1) {
   transition-delay: 0.3s;
 }
 
